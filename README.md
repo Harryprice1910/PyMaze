@@ -96,15 +96,15 @@ Install the required dependency:
 
 Run one of the Python implementations:
 
-    python dfs.py
+   python src/dfs.py
 
 or:
 
-    python bfs.py
+   python src/bfs.py
 
 or:
 
-    python astar.py
+   python src/astar.py
 
 The generated maze will open in a visual window showing the path taken
 by the agent.
